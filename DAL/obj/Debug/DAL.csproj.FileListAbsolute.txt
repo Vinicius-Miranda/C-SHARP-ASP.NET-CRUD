@@ -1,0 +1,8 @@
+D:\Estudos de C#\COTI\Aula08\DAL\bin\Debug\DB\Banco.mdf
+D:\Estudos de C#\COTI\Aula08\DAL\bin\Debug\DB\Banco_log.ldf
+D:\Estudos de C#\COTI\Aula08\DAL\bin\Debug\DAL.dll
+D:\Estudos de C#\COTI\Aula08\DAL\bin\Debug\DAL.pdb
+D:\Estudos de C#\COTI\Aula08\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Estudos de C#\COTI\Aula08\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Estudos de C#\COTI\Aula08\DAL\obj\Debug\DAL.dll
+D:\Estudos de C#\COTI\Aula08\DAL\obj\Debug\DAL.pdb

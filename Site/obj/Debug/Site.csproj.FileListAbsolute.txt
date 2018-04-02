@@ -1,0 +1,12 @@
+D:\Estudos de C#\COTI\Aula08\Site\bin\Site.dll.config
+D:\Estudos de C#\COTI\Aula08\Site\bin\Site.dll
+D:\Estudos de C#\COTI\Aula08\Site\bin\Site.pdb
+D:\Estudos de C#\COTI\Aula08\Site\obj\Debug\Site.csprojResolveAssemblyReference.cache
+D:\Estudos de C#\COTI\Aula08\Site\obj\Debug\Site.csproj.CoreCompileInputs.cache
+D:\Estudos de C#\COTI\Aula08\Site\obj\Debug\Site.dll
+D:\Estudos de C#\COTI\Aula08\Site\obj\Debug\Site.pdb
+D:\Estudos de C#\COTI\Aula08\Site\bin\DB\Banco.mdf
+D:\Estudos de C#\COTI\Aula08\Site\bin\DB\Banco_log.ldf
+D:\Estudos de C#\COTI\Aula08\Site\bin\DAL.dll
+D:\Estudos de C#\COTI\Aula08\Site\bin\DAL.pdb
+D:\Estudos de C#\COTI\Aula08\Site\obj\Debug\Site.csproj.CopyComplete
